@@ -20,7 +20,16 @@ LearnPlaywrightBatch2x/
 │   ├── js_Identifier_rules.js
 │   ├── VS_Code_keyboard_shortcut_mac.md
 │   └── VS_Code_keyboard_shortcut_windows.md
-└── js-keywords-examples.js             # JavaScript Keywords Examples
+├── chapter_04_Javascript_Concepts/   # Variables, Functions & Hoisting
+│   ├── 09_var_let_const.js
+│   ├── 10_functions.js
+│   ├── 11_var_explained.js
+│   ├── 12_let_people_love.js
+│   ├── 13_const_explained.js
+│   ├── 14_var_functionscope.js
+│   ├── 15_let_scope.js
+│   ├── 16_Hoisting.js
+│       └── 17_hoisting_fn.js
 ```
 
 ## 🚀 Getting Started
@@ -44,6 +53,7 @@ LearnPlaywrightBatch2x/
 | 1 | JavaScript Basics | `01_Basics.js` to `04_HotCode.js` |
 | 2 | JavaScript Core Concepts | `05_JS_Basics.js` |
 | 3 | Identifiers, Literals & Comments | `06_Identifier_Rules.js` to `08_Comments.js` |
+| 4 | Variables, Functions & Hoisting | `09_var_let_const.js` to `17_hoisting_fn.js` |
 
 ## 🛠️ Prerequisites
 
@@ -57,6 +67,10 @@ LearnPlaywrightBatch2x/
 - JavaScript comments (single-line & multi-line)
 - VS Code keyboard shortcuts for Mac & Windows
 - JavaScript reserved keywords
+- `var`, `let`, and `const` declarations and differences
+- Function declarations and expressions
+- Scope (global, function, block)
+- Hoisting (variables and functions)
 
 ---
 
